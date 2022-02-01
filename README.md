@@ -58,7 +58,7 @@ This case study was designed to drive home the important role that data science 
 - Creating Confusion Matrix Plots
 
 <p align="center">
-  <img width="500" height="500" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_confusionmatrix.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_confusionmatrix.png">
 </p>
 
 ## 7. Features Importance
