@@ -42,11 +42,11 @@ This case study was designed to drive home the important role that data science 
 </p>
 
 <p align="center">
-  <img width="1000" height="400" src="INSERT Covid19 correlation ">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_correlation.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="400" src="INSERT VIZ ">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_vizualization.png">
 </p>
 
 ## 5. Random Forest Model
@@ -58,13 +58,13 @@ This case study was designed to drive home the important role that data science 
 - Creating Confusion Matrix Plots
 
 <p align="center">
-  <img width="1000" height="400" src="INSERT Confusion Mtrix normalization ">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_confusionmatrix.png">
 </p>
 
 ## 7. Features Importance
 
 <p align="center">
-  <img width="1000" height="400" src="INSERT Feature Importance ">
+  <img width="500" height="400" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_featureimportance.png">
 </p>
 
 ## 6. Hyperparameter Tuning using GridSearchCV
