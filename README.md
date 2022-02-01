@@ -2,7 +2,7 @@
 # Predicting the status of Covid-19 patients using the Random Forests Approach
 
 <p align="center">
-  <img width="1000" height="400" src="https://media.springernature.com/lw630/nature-cms/uploads/collections/8k-covid19-scaled-29704a5e005f09a6edf1654fabcbdeb2-2ceb49ce47269d2527b2f6b7851cc52d.jpg">
+  <img width="600" height="400" src="https://media.springernature.com/lw630/nature-cms/uploads/collections/8k-covid19-scaled-29704a5e005f09a6edf1654fabcbdeb2-2ceb49ce47269d2527b2f6b7851cc52d.jpg">
 </p>
 
 ## 1. Introduction: Coronavirus
