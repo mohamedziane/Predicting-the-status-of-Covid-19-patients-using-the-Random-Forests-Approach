@@ -38,7 +38,7 @@ This case study was designed to drive home the important role that data science 
 - Handling Categorical Missing Data Using **KNN imputer "fancyimpute"** to encode and impute the missing Data.
 
 <p align="center">
-  <img width="1000" height="400" src="INSERT FANCYIMPUTE ">
+  <img width="600" height="400" src="https://camo.githubusercontent.com/9eeda4e6b3815387190937ca1afa724c650f1055ccc1a8a0b73a9eb5a3167e8d/68747470733a2f2f757365722d696d616765732e737472696b696e676c7963646e2e636f6d2f7265732f6872736379777634702f696d6167652f75706c6f61642f635f6c696d69742c666c5f6c6f7373792c685f313434302c775f3732302c665f6175746f2c715f6175746f2f3137343130382f3635343537395f3336343638302e706e67">
 </p>
 
 <p align="center">
