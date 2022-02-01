@@ -46,7 +46,7 @@ This case study was designed to drive home the important role that data science 
 </p>
 
 <p align="center">
-  <img width="700" height="500" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_vizualization.png">
+  <img width="700" height="700" src="https://raw.githubusercontent.com/mohamedziane/Predicting-the-status-of-Covid-19-patients-using-the-Random-Forests-Approach/main/images/img_vizualization.png">
 </p>
 
 ## 5. Random Forest Model
